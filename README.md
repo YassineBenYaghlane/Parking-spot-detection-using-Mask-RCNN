@@ -12,3 +12,5 @@ pip3 install -r requirements.txt
 
 2. Download model weights and videos in this google drive : https://drive.google.com/file/d/1DqE-wBMHSvSM2Y3cU5S4mQIuTCCuA1t4/view?usp=sharing
 
+3. Start the notebook 
+
